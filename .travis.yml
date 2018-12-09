@@ -1,5 +1,5 @@
-language: python
+language: python3
 install:
-- pip install django==1.10
+- pip install django==2.1
 script:
 - python manage.py test
