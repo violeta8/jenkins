@@ -1,6 +1,8 @@
 li a {
     color: green;
+    background-color: blanchedalmond;
 }
+
 body {
-    background: white url("images/background.png") no-repeat right bottom;
+    background: white url("images/background.jpg");
 }
